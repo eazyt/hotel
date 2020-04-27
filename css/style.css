@@ -58,6 +58,7 @@
      padding: 20px;
      text-align: center;
  }
+ 
  #navbar ul li a:hover, 
  #nav ul li a.current {
     background: #444;
